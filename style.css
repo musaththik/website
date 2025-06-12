@@ -35,3 +35,11 @@ footer {
   margin-top: 50px;
   color: #777;
 }
+
+img {
+        align-items: self-start;
+        width: 450;
+        padding: grey 5px;
+
+
+}
